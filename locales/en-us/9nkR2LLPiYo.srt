@@ -44,7 +44,7 @@ into something a bit more understandable.
 
 12
 00:00:38,196 --> 00:00:41,196
-Our biggest goal tho is to learn about computer science.
+Our biggest goal though is to learn about computer science.
 
 13
 00:00:41,196 --> 00:00:43,345
